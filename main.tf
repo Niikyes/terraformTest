@@ -12,7 +12,7 @@ variable "instance_type" {
 
 variable "server_name" {
   description = "Nombre del servidor web"
-  default     = "nginx-server"
+  default     = "nginx-server2"
 }
 
 variable "environment" {
